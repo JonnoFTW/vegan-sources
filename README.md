@@ -5,6 +5,7 @@ Reputable sources for not eating animal products
 
 Health
 ------
+* Plant based iron better than blood based iron https://nutritionfacts.org/2017/06/15/plant-versus-animal-iron/
 
 Environment
 -----------
