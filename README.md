@@ -16,3 +16,4 @@ Welfare
 -------
 
 * On a per calorie  basis, dairy requires more death than meat https://link.springer.com/article/10.1007/s10806-018-9740-9
+[PDF LINK](https://jonno.top/datasets/Kolbe2018_Article_WhyMilkConsumptionIsTheBiggerP.pdf)
