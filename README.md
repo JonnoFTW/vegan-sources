@@ -17,3 +17,4 @@ Welfare
 
 * On a per calorie  basis, dairy requires more death than meat https://link.springer.com/article/10.1007/s10806-018-9740-9
 [PDF LINK](https://jonno.top/datasets/Kolbe2018_Article_WhyMilkConsumptionIsTheBiggerP.pdf)
+* There is a prevailing myth that rodents and other small animals are killed in greater numbers: https://www.veganaustralia.org.au/animals_harmed_in_plant_food_production
