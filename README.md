@@ -7,6 +7,22 @@ Health
 ------
 * Plant based iron better than blood based iron https://nutritionfacts.org/2017/06/15/plant-versus-animal-iron/
 
+### B12
+
+* Animals are an inefficient method of producing B12, and livestock are supplemented anyway because of cobalt defficiency in the soil.
+* B12 supplementation is a must https://baltimorepostexaminer.com/carnivores-need-vitamin-b12-supplements/2013/10/30
+
+### Cancer Risk
+
+* Animal products contain Neu5gc sugar, which increases inflamation and cancer risk:
+   * http://advancedlifestylemedicine.com/?page_id=1131
+   * https://nutritionfacts.org/video/the-inflammatory-meat-molecule-neu5gc/
+   * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2792214/
+
+### Cholesterol
+
+
+
 Environment
 -----------
 
