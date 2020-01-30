@@ -14,6 +14,7 @@ Works critical of the fact that saturated fats are good for health typically rel
 * https://thescienceofnutrition.wordpress.com/2014/08/10/the-big-fat-surprise-a-critical-review-part-1/
 * https://nutritionfacts.org/2016/10/04/how-to-design-saturated-fat-studies-to-hide-the-truth/
 * https://nutritionfacts.org/topics/saturated-fat/
+* https://nutritionfacts.org/audio/rethinking-saturated-fats/
 
 
 
@@ -44,3 +45,5 @@ Welfare
 * On a per calorie  basis, dairy requires more death than meat https://link.springer.com/article/10.1007/s10806-018-9740-9
 [PDF LINK](https://jonno.top/datasets/Kolbe2018_Article_WhyMilkConsumptionIsTheBiggerP.pdf)
 * There is a prevailing myth that rodents and other small animals are killed in greater numbers: https://www.veganaustralia.org.au/animals_harmed_in_plant_food_production
+* https://en.wikipedia.org/wiki/Ethics_of_eating_meat#Criticisms_and_responses
+* https://en.wikipedia.org/wiki/Carnism
