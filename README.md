@@ -7,6 +7,16 @@ Health
 ------
 * Plant based iron better than blood based iron https://nutritionfacts.org/2017/06/15/plant-versus-animal-iron/
 
+### Saturated Fat
+
+Works critical of the fact that saturated fats are good for health typically rely on poorly conducted studies, or misleading analysis of studies
+
+* https://thescienceofnutrition.wordpress.com/2014/08/10/the-big-fat-surprise-a-critical-review-part-1/
+* https://nutritionfacts.org/2016/10/04/how-to-design-saturated-fat-studies-to-hide-the-truth/
+* https://nutritionfacts.org/topics/saturated-fat/
+
+
+
 ### B12
 
 * Animals are an inefficient method of producing B12, and livestock are supplemented anyway because of cobalt defficiency in the soil.
