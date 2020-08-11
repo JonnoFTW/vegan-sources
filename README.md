@@ -38,6 +38,7 @@ Environment
 -----------
 
 * Going vegan single biggest thing you can do to reduce personal impact on climate change: https://josephpoore.com/Science%20360%206392%20987%20-%20Accepted%20Manuscript.pdf
+* Consuming only vegan meals comes with a number of benefits: https://thekindpath.org/tips-for-going-vegan/
 
 Welfare
 -------
